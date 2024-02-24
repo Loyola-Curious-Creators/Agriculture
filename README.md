@@ -1,2 +1,2 @@
-# Agriculture
-Automating the Agriculture
+# skibidi agriiculture rizzlers
+Reveloutionalizing agriculture
